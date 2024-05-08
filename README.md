@@ -4,6 +4,8 @@
 
 This course outline applies to version 1.0 of AWS Academy Data Engineering in English.
 
+這份課程大綱適用於 AWS Academy 資料工程版本 1.0，以英文撰寫。
+
 ## Description
 
 AWS Academy Data Engineering is designed to help students learn about and get hands-on practice with the tasks, tools, and strategies that are used to collect, store, prepare, analyze, and visualize data for use in analytics and machine learning (ML) applications. Throughout the course, students will explore use cases from real-world applications, which will enable them to make informed decisions while building data pipelines for their particular applications.
@@ -154,9 +156,13 @@ This section lists the module sections in this course.
 
 This supplemental PowerPoint deck presents a sample use case for building an Internet of Things (IoT) data pipeline. The PowerPoint file includes sections for each of the main pipeline layers (ingestion and processing, storage, and analysis and visualization).
 
+這個補充的 PowerPoint 投影片給出了一個構建物聯網 (IoT) 數據管道的範例用例。該 PowerPoint 文件包括了每個主要管道層（輸入和處理、儲存以及分析和可視化）的部分。
+
 ### Capstone Project
 
 The Capstone Project provides an integrative project-based learning experience that reinforces technical skills that are taught in this course. The capstone offers students an opportunity to demonstrate critical thinking, problem solving, the software development lifecycle, and communication skills.
+
+畢業設計專案提供了一個綜合性的基於專案的學習體驗，強化了本課程所教授的技術技能。畢業設計專案為學生提供了展示批判性思維、問題解決能力、軟體開發生命周期和溝通技巧的機會。
  
 ---
 
