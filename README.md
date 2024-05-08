@@ -8,6 +8,8 @@ This course outline applies to version 1.0 of AWS Academy Data Engineering in En
 
 AWS Academy Data Engineering is designed to help students learn about and get hands-on practice with the tasks, tools, and strategies that are used to collect, store, prepare, analyze, and visualize data for use in analytics and machine learning (ML) applications. Throughout the course, students will explore use cases from real-world applications, which will enable them to make informed decisions while building data pipelines for their particular applications.
 
+AWS Academy資料工程旨在幫助學生學習並實踐用於收集、存儲、準備、分析和視覺化數據，以供分析和機器學習（ML）應用程序使用的任務、工具和策略。在整個課程中，學生將探索來自實際應用的用例，這將使他們能夠在構建特定應用程序的數據管道時做出明智的決策。
+
 ## Module sections
 
 This section lists the module sections in this course.
