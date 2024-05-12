@@ -1,11 +1,5 @@
 # AWS Academy Data Engineering (ADEv1)
 
-## Course version
-
-This course outline applies to version 1.0 of AWS Academy Data Engineering in English.
-
-這份課程大綱適用於 AWS Academy 資料工程版本 1.0，以英文撰寫。
-
 ## Description
 
 AWS Academy Data Engineering is designed to help students learn about and get hands-on practice with the tasks, tools, and strategies that are used to collect, store, prepare, analyze, and visualize data for use in analytics and machine learning (ML) applications. Throughout the course, students will explore use cases from real-world applications, which will enable them to make informed decisions while building data pipelines for their particular applications.
